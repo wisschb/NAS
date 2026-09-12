@@ -1,5 +1,4 @@
 # Schéma explicatif d’un NAS (Network Attached Storage)
-Réalisé avec draw.io
 Ce dépôt contient un schéma réalisé avec [draw.io](https://draw.io), expliquant le fonctionnement d’un NAS (Network Attached Storage) au sein d’un réseau local.
 
 # 🧠 Contenu
